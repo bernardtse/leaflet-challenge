@@ -35,9 +35,9 @@ Part 2: This part was built on  Part 1. There were two base maps (Street Map & T
 4. Navigate to http://localhost:port in your local web browser. The port number (default: 8000) is displayed on the terminal. 
 
 ## 4. Screenshots
-Part 1
+### Part 1
 ![Part 1](images/part1.png)
-Part 2
+### Part 2
 ![Part 2](images/part2.png)
 
 ## 5. Data Source
