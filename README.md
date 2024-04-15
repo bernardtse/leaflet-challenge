@@ -12,10 +12,19 @@ The United States Geological Survey (USGS), is responsible for providing scienti
 
 The challenge aims to visualise USGS data that will allow them to better educate the public and other government organizations (and hopefully secure more funding) on issues facing our planet.
 
-Part 1: All Earthquakes from the Past 7 Days was visualised. Data markers reflect (A) the magnitude of the earthquake by their size, and (B) the depth of the earthquake by color. Earthquakes with higher magnitudes appeared larger, and earthquakes with greater depth appeared darker in color. Popups providing additional information about the earthquake would appear when its associated marker was clicked. A legend was created to provide context for the map data.
+**Part 1**:
+- All Earthquakes from the Past 7 Days was visualised. 
+- Data markers reflect (A) the magnitude of the earthquake by their size, and (B) the depth of the earthquake by color.
+- Earthquakes with higher magnitudes appeared larger, and earthquakes with greater depth appeared darker in color.
+- Popups providing additional information about the earthquake would appear when its associated marker was clicked.
+- A legend was created to provide context for the map data.
 
 
-Part 2: This part was built on  Part 1. There were two base maps (Street Map & Topographic Map) to choose from. Tectonic plates dataset were plotted on the map in addition to the earthquakes. Each dataset was put into separate overlays that could be turned on and off independently.
+**Part 2**:
+- This part was built on  Part 1.
+- There were two base maps (Street Map & Topographic Map) to choose from.
+- Tectonic plates dataset were plotted on the map in addition to the earthquakes.
+- Each dataset was put into separate overlays that could be turned on and off independently.
 
 
 ## 2. Repository
