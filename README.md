@@ -36,9 +36,9 @@ Part 2: This part was built on  Part 1. There were two base maps (Street Map & T
 
 ## 4. Screenshots
 Part 1
-[Part 1](images/part1.png)
+![Part 1](images/part1.png)
 Part 2
-[Part 2](images/part2.png)
+![Part 2](images/part2.png)
 
 ## 5. Data Source
 - Earthquake data: https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
