@@ -39,7 +39,7 @@ The challenge aims to visualise USGS data that will allow them to better educate
 
 ### Part 2
 1. Make sure python is installed.
-2. Navigate to the `Leaflet-Part-2` folder on the terminal: cd `Leaflet-Part-2`.
+2. Navigate to the `Leaflet-Part-2` folder on the terminal: `cd Leaflet-Part-2`.
 3. Type `python -m http.server`
 4. Navigate to http://localhost:port in your local web browser. The port number (default: 8000) is displayed on the terminal. 
 
