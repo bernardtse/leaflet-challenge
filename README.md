@@ -1,6 +1,6 @@
 # leaflet-challenge
 
-## Content:
+## Contents
 1. [Overview](#1-overview)
 2. [Repository](#2-repository)
 3. [Deployment](#3-deployment)
