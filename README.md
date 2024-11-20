@@ -34,14 +34,25 @@ This challenge aims to visualise USGS data that will allow them to better educat
 
 ## 3. Deployment
 ### Part 1
-1. Clone the repository to your local computer. In your Terminal type `git clone https://github.com/bernardtse/leaflet-challenge.git`
-2. Open `index.html` in your local web browser
+1. Clone the repository to your local computer. On your Terminal, type:
+
+   ```
+   git clone https://github.com/bernardtse/leaflet-challenge.git
+   ```
+2. Open `Leaflet-Part-1/index.html` in your local web browser
 - Alternatively, you can run the page directly on https://bernardtse.github.io/leaflet-challenge/Leaflet-Part-1
 
 ### Part 2
 1. Make sure python is installed.
-2. Navigate to the `Leaflet-Part-2` folder on the terminal: `cd Leaflet-Part-2`.
-3. Type `python -m http.server`
+2. Navigate to the `Leaflet-Part-2` folder on the terminal:
+   ```
+   cd Leaflet-Part-2
+   ```
+3. On your terminal, type the following command to activate the HTTP server:
+
+   ```
+   python -m http.server
+   ```
 4. Navigate to http://localhost:port in your local web browser. The port number (default: 8000) is displayed on the terminal. 
 - Alternatively, you can run the page directly on https://bernardtse.github.io/leaflet-challenge/Leaflet-Part-2
 
