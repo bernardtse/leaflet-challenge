@@ -10,7 +10,7 @@
 ## 1. Overview
 The United States Geological Survey (USGS), is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change.
 
-This challenge aims to visualise USGS data that will allow them to better educate the public and other government organizations (and hopefully secure more funding) on issues facing our planet.
+This challenge aims to visualise USGS data that will allow them to better educate the public and other government organisations (and hopefully secure more funding) on issues facing our planet.
 
 **Part 1**:
 - All Earthquakes from the Past 7 Days was visualised. 
