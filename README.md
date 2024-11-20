@@ -1,4 +1,4 @@
-# leaflet-challenge
+# leaflet-challenge - USGS Data Visualisation
 
 ## Contents
 1. [Overview](#1-overview)
