@@ -1,4 +1,5 @@
-# leaflet-challenge - USGS Data Visualisation
+# leaflet-challenge
+US Geological Survey Data Visualisation with leaflet.js
 
 ## Contents
 1. [Overview](#1-overview)
