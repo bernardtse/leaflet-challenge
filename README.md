@@ -29,9 +29,16 @@ This challenge aims to visualise USGS data that will allow them to better educat
 
 
 ## 2. Repository
-- [`Leaflet-Part-1`](Leaflet-Part-1) contains all files required to run the visualisation of earthquake data. (`index.html`, `static/css/style.css`, `static/js/logic.js`)
-- [`Leaflet-Part-2`](Leaflet-Part-2) contains all files required to run the visualisation of earthquake data and the data for tectonic plates. (`index.html`, `static/css/style.css`, `static/js/logic.js` `data/PB2002_plates.json`)
-- [`images`](images) contains screenshots of the visualisations. 
+- [`Leaflet-Part-1/`](Leaflet-Part-1) contains all files required to run the visualisation of earthquake data.
+   - `index.html`
+   - `static/css/style.css`
+   - `static/js/logic.js`
+- [`Leaflet-Part-2/`](Leaflet-Part-2) contains all files required to run the visualisation of earthquake data and the data for tectonic plates.
+   - `index.html`
+   - `static/css/style.css`
+   - `static/js/logic.js`
+   - `data/PB2002_plates.json`
+- [`images/`](images) contains screenshots of the visualisations. 
 
 ## 3. Deployment
 ### Part 1
@@ -45,7 +52,7 @@ This challenge aims to visualise USGS data that will allow them to better educat
 
 ### Part 2
 1. Make sure python is installed.
-2. Navigate to the `Leaflet-Part-2` folder on the terminal:
+2. Navigate to the `Leaflet-Part-2/` folder on the terminal:
    ```
    cd Leaflet-Part-2
    ```
