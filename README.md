@@ -29,11 +29,11 @@ This challenge aims to visualise USGS data that will allow them to better educat
 
 
 ## 2. Repository
-- [`Leaflet-Part-1/`](Leaflet-Part-1) contains all files required to run the visualisation of earthquake data.
+- [`leaflet-part1/`](leaflet-part1) contains all files required to run the visualisation of earthquake data.
    - `index.html`
    - `static/css/style.css`
    - `static/js/logic.js`
-- [`Leaflet-Part-2/`](Leaflet-Part-2) contains all files required to run the visualisation of earthquake data and the data for tectonic plates.
+- [`leaflet-part2/`](leaflet-part2) contains all files required to run the visualisation of earthquake data and the data for tectonic plates.
    - `index.html`
    - `static/css/style.css`
    - `static/js/logic.js`
@@ -47,14 +47,14 @@ This challenge aims to visualise USGS data that will allow them to better educat
    ```
    git clone https://github.com/bernardtse/leaflet-challenge.git
    ```
-2. Open `Leaflet-Part-1/index.html` in your local web browser
-- Alternatively, you can run the page directly on https://bernardtse.github.io/leaflet-challenge/Leaflet-Part-1
+2. Open `leaflet-part1/index.html` in your local web browser
+- Alternatively, you can run the page directly on https://bernardtse.github.io/leaflet-challenge/leaflet-part1
 
 ### Part 2
 1. Make sure python is installed.
-2. Navigate to the `Leaflet-Part-2/` folder in the terminal:
+2. Navigate to the `leaflet-part2/` folder in the terminal:
    ```
-   cd Leaflet-Part-2
+   cd leaflet-part2
    ```
 3. In your terminal, type the following command to activate the HTTP server:
 
@@ -62,7 +62,7 @@ This challenge aims to visualise USGS data that will allow them to better educat
    python -m http.server
    ```
 4. Navigate to http://localhost:port in your local web browser. The port number (default: 8000) is displayed in the terminal. 
-- Alternatively, you can run the page directly on https://bernardtse.github.io/leaflet-challenge/Leaflet-Part-2
+- Alternatively, you can run the page directly on https://bernardtse.github.io/leaflet-challenge/leaflet-part2
 
 ## 4. Screenshots
 ### Part 1
