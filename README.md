@@ -29,16 +29,16 @@ This challenge aims to visualise USGS data that will allow them to better educat
 
 
 ## 2. Repository
-- [`leaflet-part1/`](leaflet-part1) contains all files required to run the visualisation of earthquake data.
+- [`leaflet-part1/`](leaflet-part1) - Contains all files required to run the visualisation of earthquake data
    - `index.html`
    - `static/css/style.css`
    - `static/js/logic.js`
-- [`leaflet-part2/`](leaflet-part2) contains all files required to run the visualisation of earthquake data and the data for tectonic plates.
+- [`leaflet-part2/`](leaflet-part2) - Contains all files required to run the visualisation of earthquake data and the data for tectonic plates
    - `index.html`
    - `static/css/style.css`
    - `static/js/logic.js`
    - `data/PB2002_plates.json`
-- [`images/`](images) contains screenshots of the visualisations. 
+- [`images/`](images) - Contains screenshots of the visualisations
 
 ## 3. Deployment
 ### Part 1
